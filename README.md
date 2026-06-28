@@ -124,5 +124,5 @@ The project includes data collection, log parsing, custom SPL queries, interacti
 
 ## Author
 
-Navin Maurya
+Abhinav Maurya
 Cybersecurity Student | SOC Analyst | Threat Detection | Splunk | Blue Team
